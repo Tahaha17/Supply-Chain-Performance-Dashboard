@@ -59,7 +59,7 @@ The data model follows a clean star‑schema structure with properly defined rel
 - Customers  
 - Payments  
 
-![Data Model](model View.png)
+![Data Model](data_model.png)
 
 ---
 
